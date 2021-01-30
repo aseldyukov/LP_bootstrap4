@@ -1,6 +1,6 @@
 ## Landing page website 
 
-![preview](images/preview.jpg)
+![preview](images/preview.gif)
 
 A landing page website based on bootstrap 4 for educational purpose 
 
