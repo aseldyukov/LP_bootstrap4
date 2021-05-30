@@ -1,5 +1,7 @@
 ## Landing page website 
 
+https://aseldyukov.github.io/LP_bootstrap4/
+
 ![preview](images/preview.gif)
 
 A landing page website based on bootstrap 4 for educational purpose 
